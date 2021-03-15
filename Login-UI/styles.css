@@ -1,8 +1,27 @@
 body {
-    background-color: rgb(0, 255, 64);
+    background-color: cornsilk;
+    display: flex
+    align-items: center;
+    justify-content: center;
 }
 #login-box {
-    color: rgb(0, 204, 255);
-    width: 200vw
-    
+    align-items: center;
+    background-color: rgb(0, 204, 255);
+    color: white;
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+justify-content: center;
 }
+button {
+    background-color: 100px;
+    color:black;
+    padding: 10px;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+
+
+}
+    
